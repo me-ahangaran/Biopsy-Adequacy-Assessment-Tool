@@ -56,3 +56,7 @@ python MedSAM_Inference.py -i ./data/Test -o ./ -chk work_dir/MedSAM/medsam_2023
 ## Run the model
 After preprocessing and creating checkpoints, run the file run.py. The annotation images will be created on "/Annotated_images" folder and a csv file
 including columns: image ID, actual cortex percentage, predicted cortex percentage, and error of prediction is created in data.csv in the current folder.
+
+## Reference
+For more information read the corresponding article here: https://www.medrxiv.org/content/10.1101/2024.02.01.24302147v2
+

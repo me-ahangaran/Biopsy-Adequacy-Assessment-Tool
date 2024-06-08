@@ -59,4 +59,13 @@ including columns: image ID, actual cortex percentage, predicted cortex percenta
 
 ## Reference
 For more information read the corresponding article here: https://www.medrxiv.org/content/10.1101/2024.02.01.24302147v2
-
+```bash
+@article{ahangaran2024web,
+  title={A web-based tool for real-time adequacy assessment of kidney biopsies},
+  author={Ahangaran, Meysam and Sun, Emily and Le, Khang and Sun, Jiawei and Wang, William M and Tan, Tian Herng and Burdine, Lyle J and Dvanajscak, Zeljko and Cassol, Clarissa A and Sharma, Shree and others},
+  journal={medRxiv},
+  pages={2024--02},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+```

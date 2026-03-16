@@ -65,14 +65,16 @@ Upon confirming and submitting an image for analysis, the platform generates two
 <img src = "https://github.com/me-ahangaran/Biopsy-Adequacy-Assessment-Tool/blob/main/Figure%201.svg">
 
 ## Reference
-For more information read the corresponding article here: https://www.medrxiv.org/content/10.1101/2024.02.01.24302147v2
+For more information read the corresponding article here: https://www.sciencedirect.com/science/article/pii/S2468024924017959
 ```bash
-@article{ahangaran2024web,
-  title={A web-based tool for real-time adequacy assessment of kidney biopsies},
-  author={Ahangaran, Meysam and Sun, Emily and Le, Khang and Sun, Jiawei and Wang, William M and Tan, Tian Herng and Burdine, Lyle J and Dvanajscak, Zeljko and Cassol, Clarissa A and Sharma, Shree and others},
-  journal={medRxiv},
-  pages={2024--02},
+@article{ahangaran2024pilot,
+  title={Pilot study of a web-based tool for real-time adequacy assessment of kidney biopsies},
+  author={Ahangaran, Meysam and Sun, Emily and Le, Khang and Sun, Jiawei and Wang, William M and Tan, Tian Herng and Yin, Lingkai and Burdine, Lyle J and Dvanajscak, Zeijko and Cassol, Clarissa A and others},
+  journal={Kidney International Reports},
+  volume={9},
+  number={9},
+  pages={2809--2813},
   year={2024},
-  publisher={Cold Spring Harbor Laboratory Press}
+  publisher={Elsevier}
 }
 ```
